@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "name": "AI Open Source Hub",
+  "updatedAt": "2026-10-17",
+  "projects": [
+    {
+      "id": "aimegeo",
+      "name": "aimeGeo",
+      "description": "AI 内容制作、多平台发布与 AI 引用检测的使用教程、Skills 和提示词。",
+      "localPath": "projects/aimegeo",
+      "repository": "https://github.com/xxjrq/aimegeo",
+      "homepage": "https://geo.aimmme.com/",
+      "downloadCenter": "https://geo.aimmme.com/download/",
+      "resourceLicense": "MIT",
+      "scope": "usage-guides-skills-prompts-helper-scripts",
+      "mirror": "https://gitee.com/xxjrq/aimegeo"
+    }
+  ]
+}
