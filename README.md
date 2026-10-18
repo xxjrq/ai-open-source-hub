@@ -8,7 +8,7 @@
 
 | 项目 | 解决什么问题 | 本地资源 | 官方入口 |
 | --- | --- | --- | --- |
-| **aimeGeo** | 用 AI 制作内容，管理多平台发布，检查 AI 品牌提及与内容引用 | [aimeGeo 使用资源](https://github.com/xxjrq/aimegeo) | [官网](https://geo.aimmme.com/) · [客户端下载](https://geo.aimmme.com/download/) |
+| **aimeGeo** | 自研免费 GEO 系统，做 GEO，也做自媒体：AI 创作、多平台发布与按需引用检测 | [aimeGeo 使用资源](https://github.com/xxjrq/aimegeo) | [官网](https://geo.aimmme.com/) · [客户端下载](https://geo.aimmme.com/download/) · [帮助](https://geo.aimmme.com/docs/) |
 
 机器可读目录见 [catalog.json](catalog.json)。独立项目放在 `projects/<项目名>/`；发布时以独立 GitHub 仓库管理，再由总目录关联，安装者不必下载其他项目。
 
